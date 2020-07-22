@@ -1,0 +1,22 @@
+{
+  "name": "simple_calculator_resubmitted",
+  "version": "1.0.0",
+  "description": "simple calculator with two operations(additiona and multiplicaton)",
+  "main": "simpleCalculator1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bongivilakazi/simple_calculator_resubmitted.git"
+  },
+  "author": "Sibongile Vilakazi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bongivilakazi/simple_calculator_resubmitted/issues"
+  },
+  "homepage": "https://github.com/bongivilakazi/simple_calculator_resubmitted#readme",
+  "dependencies": {
+    "jasmine": "^3.5.0"
+  }
+}
